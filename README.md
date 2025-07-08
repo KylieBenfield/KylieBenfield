@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kylie</h1>
 <h3 align="center">Senior Software Engineer and Life Time Learner</h3>
 
-I am a self-taught software engineer working, for the last 16 years across web front-ends, server backends, and mobile devices.
+I am a self-taught software engineer working, for the last 17+ years across web front-ends, server backends, and mobile devices.
 
 *   🌍  I'm based in Denver, Colorado
 *   🚀  I'm currently working on a custom game engine written in C++ currently called Argo
@@ -10,7 +10,10 @@ I am a self-taught software engineer working, for the last 16 years across web f
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=kyliebenfield&column=5&margin-w=15&margin-h=15&theme=darkhub&no-frame=true&no-bg=true" alt="kylie's github trophies" /></a> </p>
 
-- 🔭 I’m currently working on [Argo Game Engine](https://github.com/RevelryPlay/Argo-Community)
+### 🔭 I’m currently working on:
+- [Argo Game Engine](https://github.com/RevelryPlay/Argo-Community)
+- [Hardcover](https://hardcover.app)
+- [RevelryPlay](https://www.revelryplay.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
