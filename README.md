@@ -7,7 +7,8 @@ I am a self-taught software engineer working, for the last 16 years across web f
 *   🚀  I'm currently working on a custom game engine written in C++ currently called Argo
 *   🧠  I'm learning the tools and frameworks needed to build a functional game engine in C++
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyliebenfield&column=5&margin-w=15&margin-h=15&theme=darkhub" alt="kylie's github trophies" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=kyliebenfield&column=5&margin-w=15&margin-h=15&theme=darkhub&no-frame=true&no-bg=true" alt="kylie's github trophies" /></a> </p>
 
 - 🔭 I’m currently working on [Argo Game Engine](https://github.com/RevelryPlay/Argo-Community)
 
