@@ -4,7 +4,6 @@
 I am a self-taught software engineer working, for the last 17+ years across web front-ends, server backends, and mobile devices.
 
 *   🌍  I'm based in Denver, Colorado
-*   🚀  I'm currently working on a custom game engine written in C++ currently called Argo
 *   🧠  I'm learning the tools and frameworks needed to build a functional game engine in C++
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
