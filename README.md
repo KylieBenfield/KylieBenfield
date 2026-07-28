@@ -3,7 +3,7 @@
 
 I'm a self-taught software engineer of over 20 years, constantly learning and exploring how things work.
 
-From building complex Vulkan rendering pipelines to an archery training app to the perfect book-tracking app, I enjoy the process of solving difficult problems — across web front-ends, server back-ends, and mobile.
+From building complex Vulkan rendering pipelines to an archery training app to the perfect book-tracking app, I enjoy the process of solving difficult problems. Across web front-ends, server back-ends, and mobile.
 
 ### 🔭 What I'm building
 
