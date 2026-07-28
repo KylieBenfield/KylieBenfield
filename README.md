@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kylie</h1>
 <h3 align="center">Senior Software Engineer and Life Time Learner</h3>
 
-I am a self-taught software engineer working, for the last 17+ years across web front-ends, server backends, and mobile devices.
+I am a self-taught software engineer working, for the last 20+ years across web front-ends, server backends, and mobile devices.
 
 *   🌍  I'm based in Denver, Colorado
 *   🧠  I'm learning the tools and frameworks needed to build a functional game engine in C++
